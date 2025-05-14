@@ -1,21 +1,32 @@
 {
-    "doutores": [
-      {
-        "id": 1,
-        "name": "Dr. Olivia Wilson",
-        "specialty": "Consultant - Physiotherapy",
-        "rating": 4.9,
-        "reviews": 37,
-        "avatar": "https://gravatar.com/avatar/576d359ef1d49cfbd86897803cfdf1e8?s=400&d=robohash&r=x"
-      },
-      {
-        "id": 2,
-        "name": "Dr. Jonathan Patterson",
-        "specialty": "Consultant - Internal Medicine",
-        "rating": 4.9,
-        "reviews": 37,
-        "avatar": "https://gravatar.com/avatar/6f15171f54a84abd78b070a35237e809?s=400&d=robohash&r=x"
-      }
-    ]
-  }
-  
+  "cliente": {
+    "name": "Donna StroJuniorupe",
+    "avatar": "https://robohash.org/b4faa298dd94fea676ea797a194cb6e4?set=set4&bgset=&size=400x400"
+  },
+  "doutores": [
+    {
+      "id": 1,
+      "name": "Dr. Olivia Wilson1",
+      "specialty": "Consultant - Physiotherapy",
+      "rating": 4.9,
+      "reviews": 37,
+      "avatar": "https://gravatar.com/avatar/576d359ef1d49cfbd86897803cfdf1e8?s=400&d=robohash&r=x"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Jonathan Patterson2",
+      "specialty": "Consultant - Internal Medicine",
+      "rating": 4.9,
+      "reviews": 1000,
+      "avatar": "https://gravatar.com/avatar/6f15171f54a84abd78b070a35237e809?s=400&d=robohash&r=x"
+    }
+  ],
+  "categorias": [
+    { "id": 1, "nome": "Resort1" },
+    { "id": 2, "nome": "Dentist" },
+    { "id": 3, "nome": "Cardiologist1" },
+    { "id": 4, "nome": "Hospital" },
+    { "id": 5, "nome": "Emergency" },
+    { "id": 6, "nome": "Laboratório" }
+  ]
+}
